@@ -1,4 +1,4 @@
 
 > frontend@0.1.0 build-storybook
-> build-storybook --docs -s public --output-dir=/tmp/chromatic--1516-04lJQ1v6RQaL
+> build-storybook --docs -s public --output-dir=/tmp/chromatic--1917-yHCIYyGX3gml
 
